@@ -1,4 +1,4 @@
-# 🚖 Ride Demand & Revenue Optimization Analytics (Uber-like System)
+# Ride Demand & Revenue Optimization Analytics (Uber-like System)
 
 ## 📊 Project Overview
 
@@ -16,7 +16,7 @@ To analyze ride data and extract meaningful insights using data analytics and ma
 
 ## 🧩 Key Components
 
-### 📊 1. Dashboard Development (Power BI)
+### 1. Dashboard Development (Power BI)
 
 * Designed a **multi-page interactive dashboard**:
 
@@ -39,7 +39,7 @@ To analyze ride data and extract meaningful insights using data analytics and ma
 
 ---
 
-### 🔍 2. Demand Analysis
+### 2. Demand Analysis
 
 * Built a **heatmap** to analyze ride demand by:
 
@@ -58,7 +58,7 @@ Ride demand peaks during **evening commute hours (5–7 PM)**.
 
 ---
 
-### 💰 3. Revenue & Pricing Analysis
+### 3. Revenue & Pricing Analysis
 
 * Analyzed:
 
@@ -74,7 +74,7 @@ Ride demand peaks during **evening commute hours (5–7 PM)**.
 
 ---
 
-### ⚙️ 4. Operational Efficiency
+### 4. Operational Efficiency
 
 * Studied relationship between:
 
@@ -86,7 +86,7 @@ Ride demand peaks during **evening commute hours (5–7 PM)**.
 
 ---
 
-### 🤖 5. Machine Learning (Fare Prediction)
+### 5. Machine Learning (Fare Prediction)
 
 * Built regression models:
 
@@ -111,7 +111,7 @@ Random Forest performed slightly better, capturing non-linear relationships in p
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * Peak demand occurs during evening commute hours
 * Higher pricing observed during low-demand hours
