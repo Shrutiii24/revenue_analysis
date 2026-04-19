@@ -123,7 +123,6 @@ Random Forest performed slightly better, capturing non-linear relationships in p
 ## 📁 Files
 
 * `Ride_Dashboard.pbix` → Power BI dashboard
-* `cleaned_uber_data_sample.csv` → Dataset
 * `Fare_Prediction.ipynb` → ML model (Colab)
 
 ---
@@ -133,27 +132,5 @@ Random Forest performed slightly better, capturing non-linear relationships in p
 * Power BI
 * Python (Pandas, Scikit-learn, Matplotlib)
 * Google Colab
-
----
-
-## 🚀 Future Enhancements
-
-* Time-series demand forecasting
-* Surge pricing prediction
-* Real-time dashboard integration
-* Geo-spatial analysis with coordinates
-
----
-
-## 📌 Conclusion
-
-This project demonstrates an end-to-end data analytics workflow:
-
-* Data cleaning
-* Visualization
-* Insight generation
-* Predictive modeling
-
-It highlights how data can be leveraged to optimize ride demand, pricing strategies, and operational efficiency.
 
 ---
