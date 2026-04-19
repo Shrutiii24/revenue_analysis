@@ -1,6 +1,6 @@
 # Ride Demand & Revenue Optimization Analytics (Uber-like System)
 
-## 📊 Project Overview
+## Project Overview
 
 This project focuses on analyzing ride-hailing data to uncover demand patterns, pricing behavior, and operational efficiency. An interactive Power BI dashboard is developed alongside a machine learning model to predict ride fares.
 
@@ -8,7 +8,7 @@ The goal is to enable **data-driven decision-making** for optimizing pricing, im
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To analyze ride data and extract meaningful insights using data analytics and machine learning techniques, while building an interactive dashboard for visualization and decision support.
 
