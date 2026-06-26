@@ -2,15 +2,17 @@
 
 ## Project Overview
 
-This project analyzes ride-hailing data to uncover demand patterns, pricing behavior, operational efficiency, and revenue optimization opportunities. An interactive Power BI dashboard was developed to transform raw ride data into actionable business insights.
-
-The dashboard goes beyond descriptive analytics by providing **driver allocation** and **pricing optimization** recommendations that can support operational decision-making for ride-hailing platforms.
+Ride-hailing platforms must continuously balance rider demand, driver availability, and pricing strategies to maximize revenue while maintaining service quality. Poor driver allocation during peak hours and inefficient pricing strategies can increase rider wait times, reduce driver utilization, and impact overall revenue. This project analyzes large-scale ride data to identify demand patterns, optimize driver deployment, evaluate pricing opportunities, and provide data-driven operational recommendations through an interactive Power BI dashboard.
 
 ---
 
-# Objective
+# Business Objectives
 
-To analyze ride-hailing data and extract meaningful business insights using Power BI, enabling data-driven decisions for improving demand management, driver allocation, pricing strategy, and overall operational efficiency.
+Identify peak demand periods across hours and weekdays.
+Analyze revenue trends and fare behavior.
+Optimize driver allocation using demand patterns.
+Identify opportunities for dynamic pricing.
+Support operational decision-making through KPI-driven dashboards.
 
 ---
 
