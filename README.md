@@ -8,11 +8,11 @@ Ride-hailing platforms must continuously balance rider demand, driver availabili
 
 # Business Objectives
 
-Identify peak demand periods across hours and weekdays.
-Analyze revenue trends and fare behavior.
-Optimize driver allocation using demand patterns.
-Identify opportunities for dynamic pricing.
-Support operational decision-making through KPI-driven dashboards.
+* Identify peak demand periods across hours and weekdays.
+* Analyze revenue trends and fare behavior.
+* Optimize driver allocation using demand patterns.
+* Identify opportunities for dynamic pricing.
+* Support operational decision-making through KPI-driven dashboards.
 
 ---
 
